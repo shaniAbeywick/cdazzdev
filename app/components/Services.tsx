@@ -31,7 +31,7 @@ function Services() {
                         <a href="#">
                             <h5 className="m-4 text-xl font-semibold tracking-tight text-gray-900 dark:text-white text-center uppercase">Web App Development</h5>
                         </a>
-                        <p className="mb-3 font-normal text-black-100 text-opacity-70 dark:text-gray-400 text-center">Unlock the full potential of your online presence with our cutting-edge Web App Development services. At Designveloper, we specialize in creating dynamic and responsive web applications that cater to your unique business needs. Some of our notable creations include</p>
+                        <p className="mb-3 font-normal text-black-100 text-opacity-70 dark:text-gray-400 text-center">Lorem ipsum dolor sit, amet consectetur adipisicing elit. Officia non quo nulla eligendi, repellendus at quam laborum sed reprehenderit quos nobis totam fugiat corporis voluptatem provident asperiores rerum! Iure, eum.</p>
                         <div className="overlay absolute rounded-lg flex justify-center items-center">
                             <a href="/service#web__app_development">
                                 <button type="button" className="seeMoreBtn py-2.5 px-5 opacity-0 text-sm font-medium text-blue-300 focus:outline-none bg-white rounded-lg border-0 hover:bg-gray-100 hover:text-blue-300 focus:z-10 focus:ring-4 focus:ring-gray-200 dark:focus:ring-gray-700 dark:bg-gray-800 dark:text-gray-400 dark:border-gray-600 dark:hover:text-white dark:hover:bg-gray-700">See More</button>
@@ -89,7 +89,7 @@ function Services() {
                         <a href="#">
                             <h5 className="m-4 text-xl font-semibold tracking-tight text-gray-900 dark:text-white text-center uppercase">Mobile App Development</h5>
                         </a>
-                        <p className="mb-3 font-normal text-black-100 text-opacity-70 dark:text-gray-400 text-center">Take your business on the go with our Mobile App Development services. From conceptualization to deployment, we ensure your app stands out in the competitive mobile landscape.</p>
+                        <p className="mb-3 font-normal text-black-100 text-opacity-70 dark:text-gray-400 text-center">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Voluptates cupiditate nisi ullam suscipit ipsam ducimus provident dicta, et fugit eos, autem, excepturi aliquid inventore vero atque animi non assumenda corrupti!.</p>
                         <div className="overlay absolute rounded-lg flex justify-center items-center">
                             <a href="/service#mobile_app_developmet">
                                 <button type="button" className="seeMoreBtn py-2.5 px-5 opacity-0 text-sm font-medium text-blue-300 focus:outline-none bg-white rounded-lg border-0 hover:bg-gray-100 hover:text-blue-300 focus:z-10 focus:ring-4 focus:ring-gray-200 dark:focus:ring-gray-700 dark:bg-gray-800 dark:text-gray-400 dark:border-gray-600 dark:hover:text-white dark:hover:bg-gray-700">See More</button>
@@ -123,7 +123,7 @@ function Services() {
                         <a href="#">
                             <h5 className="m-4 text-xl font-semibold tracking-tight text-gray-900 dark:text-white text-center uppercase">Cyber Security</h5>
                         </a>
-                        <p className="mb-3 font-normal text-black-100 text-opacity-70 dark:text-gray-400 text-center">Safeguard your digital assets with our state-of-the-art Cyber Security solutions. We prioritize the confidentiality and integrity of your data, providing robust security measures tailored to your business needs.</p>
+                        <p className="mb-3 font-normal text-black-100 text-opacity-70 dark:text-gray-400 text-center">Lorem ipsum, dolor sit amet consectetur adipisicing elit. Tempore eum, explicabo obcaecati, unde eius ratione aliquam veniam soluta accusamus asperiores repellendus? Maiores dolores recusandae illum explicabo officia ut cum autem.</p>
                         <div className="overlay absolute rounded-lg flex justify-center items-center">
                             <a href="/service#cyber_security">
                                 <button type="button" className="seeMoreBtn py-2.5 px-5 opacity-0 text-sm font-medium text-blue-300 focus:outline-none bg-white rounded-lg border-0 hover:bg-gray-100 hover:text-blue-300 focus:z-10 focus:ring-4 focus:ring-gray-200 dark:focus:ring-gray-700 dark:bg-gray-800 dark:text-gray-400 dark:border-gray-600 dark:hover:text-white dark:hover:bg-gray-700">See More</button>
@@ -145,7 +145,7 @@ function Services() {
                         <a href="#">
                             <h5 className="m-4 text-xl font-semibold tracking-tight text-gray-900 dark:text-white text-center uppercase">AI Development</h5>
                         </a>
-                        <p className="mb-3 font-normal text-black-100 text-opacity-70 dark:text-gray-400 text-center">Embark on the journey of artificial intelligence with our AI Development services. Leverage the power of machine learning and data analysis to gain valuable insights and automate processes for enhanced efficiency.</p>
+                        <p className="mb-3 font-normal text-black-100 text-opacity-70 dark:text-gray-400 text-center">Lorem ipsum dolor sit amet consectetur, adipisicing elit. Aperiam, minima sunt praesentium, inventore eum iusto accusantium nesciunt aspernatur libero id ipsa vitae ducimus eius voluptate distinctio earum doloribus illo obcaecati.</p>
                         <div className="overlay absolute rounded-lg flex justify-center items-center">
                             <a href="/service#Ai_developmet">
                                 <button type="button" className="seeMoreBtn py-2.5 px-5 opacity-0 text-sm font-medium text-blue-300 focus:outline-none bg-white rounded-lg border-0 hover:bg-gray-100 hover:text-blue-300 focus:z-10 focus:ring-4 focus:ring-gray-200 dark:focus:ring-gray-700 dark:bg-gray-800 dark:text-gray-400 dark:border-gray-600 dark:hover:text-white dark:hover:bg-gray-700">See More</button>
@@ -177,8 +177,7 @@ function Services() {
                             <h5 className="m-4 text-xl font-semibold tracking-tight text-gray-900 dark:text-white text-center uppercase">Employee Outsource</h5>
                         </a>
                         <p className="mb-3 font-normal text-black-100 text-opacity-70 dark:text-gray-400 text-center">
-                            We provide IT staffing at a high quality and a very much affordable cost. You can gain complete satisfaction from our expert resources. Our IT staff can work on designing, developing, supporting and maintaining issues so as to help you save on expenses.
-                            Make a choice to outsource now and get our pool of devoted IT professionals to fulfill your quick-time period undertaking requirements on an offshore/onshore basis.
+                            Lorem ipsum dolor sit, amet consectetur adipisicing elit. Quaerat, quam, aperiam error voluptatibus doloribus eos ullam hic dignissimos, illum esse eveniet libero culpa quod ipsa obcaecati deserunt molestiae a. Quasi!
                         </p>
                         <div className="overlay absolute rounded-lg flex justify-center items-center">
                             <a href="/service#empolyee_outsource">
@@ -198,7 +197,7 @@ function Services() {
                         <a href="#">
                             <h5 className="m-4 text-xl font-semibold tracking-tight text-gray-900 dark:text-white text-center uppercase">Graphic Design</h5>
                         </a>
-                        <p className="mb-3 font-normal text-black-100 text-opacity-70 dark:text-gray-400 text-center">Graphic design is a sought-after skill that can help produce high-end designs to promote brands at a national and international scale. Adding graphics to your design can help you showcase your creative skills and make a good impression on your clients.</p>
+                        <p className="mb-3 font-normal text-black-100 text-opacity-70 dark:text-gray-400 text-center">Lorem ipsum dolor sit amet consectetur adipisicing elit. Culpa quibusdam voluptatum ratione molestiae ducimus tempora tenetur velit, mollitia, itaque sunt error a. Odit sunt laudantium voluptatem magni hic iste atque..</p>
                         <div className="overlay absolute rounded-lg flex justify-center items-center">
                             <a href="/service#graphic_design">
                                 <button type="button" className="seeMoreBtn py-2.5 px-5 opacity-0 text-sm font-medium text-blue-300 focus:outline-none bg-white rounded-lg border-0 hover:bg-gray-100 hover:text-blue-300 focus:z-10 focus:ring-4 focus:ring-gray-200 dark:focus:ring-gray-700 dark:bg-gray-800 dark:text-gray-400 dark:border-gray-600 dark:hover:text-white dark:hover:bg-gray-700">See More</button>
@@ -229,7 +228,7 @@ function Services() {
                         <a href="#">
                             <h5 className="m-4 text-xl font-semibold tracking-tight text-gray-900 dark:text-white text-center uppercase">Scylla AI</h5>
                         </a>
-                        <p className="mb-3 font-normal text-black-100 text-opacity-70 dark:text-gray-400 text-center">Scylla is a modern modular AI-powered physical threat detection system that enhances operational activities of security teams. Our solutions work in real time so that your surveillance is proactive rather than reactive in high-impact scenarios.</p>
+                        <p className="mb-3 font-normal text-black-100 text-opacity-70 dark:text-gray-400 text-center">Lorem ipsum dolor sit amet consectetur adipisicing elit. Autem vel architecto quasi, a ipsa, rerum ratione voluptas, quos quibusdam laudantium corporis voluptatem? Sunt quas voluptas libero, repudiandae vero voluptatum corrupti?</p>
                         <div className="overlay absolute rounded-lg flex justify-center items-center">
                             <a href="/service#scylla_ai">
                                 <button type="button" className="seeMoreBtn py-2.5 px-5 opacity-0 text-sm font-medium text-blue-300 focus:outline-none bg-white rounded-lg border-0 hover:bg-gray-100 hover:text-blue-300 focus:z-10 focus:ring-4 focus:ring-gray-200 dark:focus:ring-gray-700 dark:bg-gray-800 dark:text-gray-400 dark:border-gray-600 dark:hover:text-white dark:hover:bg-gray-700">See More</button>
@@ -253,7 +252,7 @@ function Services() {
                         <a href="#">
                             <h5 className="m-4 text-xl font-semibold tracking-tight text-gray-900 dark:text-white text-center uppercase">Supermicro servers</h5>
                         </a>
-                        <p className="mb-3 font-normal text-black-100 text-opacity-70 dark:text-gray-400 text-center">Supermicro is a global technology leader committed to delivering first-to-market innovation for Enterprise, Cloud, AI, Metaverse, and 5G Telco/Edge IT Infrastructure. It is a Rack-Scale Total IT Solutions provider that designs and builds an environmentally friendly and energy-saving portfolio of servers, storage systems, switches, and software, along with global support services.</p>
+                        <p className="mb-3 font-normal text-black-100 text-opacity-70 dark:text-gray-400 text-center">Lorem ipsum dolor sit, amet consectetur adipisicing elit. Maxime eaque cupiditate expedita at quidem autem reprehenderit nemo beatae, ratione saepe labore. Unde at iste porro, impedit explicabo sit sequi suscipit?</p>
                         <div className="overlay absolute rounded-lg flex justify-center items-center">
                             <a href="/service#supermicro">
                                 <button type="button" className="seeMoreBtn py-2.5 px-5 opacity-0 text-sm font-medium text-blue-300 focus:outline-none bg-white rounded-lg border-0 hover:bg-gray-100 hover:text-blue-300 focus:z-10 focus:ring-4 focus:ring-gray-200 dark:focus:ring-gray-700 dark:bg-gray-800 dark:text-gray-400 dark:border-gray-600 dark:hover:text-white dark:hover:bg-gray-700">See More</button>

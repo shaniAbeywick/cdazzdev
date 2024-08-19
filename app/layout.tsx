@@ -7,8 +7,8 @@ const inter = Inter({ subsets: ["latin"] });
 
 export const metadata: Metadata = {
   title: {
-    default: "cdazzdev",
-    template: "%s | cdazzdev"
+    default: "#",
+    template: "%s | #"
   },
   description: "Unlock tomorrow's potential with cdazzdev's cutting-edge software solutions. Empowering innovation for a brighter future",
   applicationName: 'cdazzdev.com',
@@ -28,23 +28,23 @@ export const metadata: Metadata = {
   authors: { name: 'cdazzdev' },
   creator: 'Shani Abeywickrama',
   alternates: {
-    canonical: 'https://cdazzdev.com',
+    canonical: '#',
     languages: {
       'en-US': '/en-US',
     },
   },
   openGraph: {
-    title: "cdazzdev.com",
+    title: "#",
     description: "Unlock tomorrow's potential with cdazzdev's cutting-edge software solutions. Empowering innovation for a brighter future",
-    url: "https://cdazzdev.com/",
-    siteName: "cdazzdev.com",
+    url: "#",
+    siteName: "#",
     type: "website",
 
   },
   twitter: {
-    title: "cdazzdev.com",
+    title: "#",
     description: "Unlock tomorrow's potential with cdazzdev's cutting-edge software solutions. Empowering innovation for a brighter future",
-    site: "cdazzdev.com",
+    site: "#",
     card: "summary_large_image",
 
 

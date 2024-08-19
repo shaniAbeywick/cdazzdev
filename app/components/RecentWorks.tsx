@@ -23,20 +23,20 @@ function RecentWorks() {
                 {/* cards of recent work section */}
                 <div className="grid md:grid-cols-3 grid-cols-1 gap-8 justify-items-center">
                     <div className="relative w-full max-w-sm bg-white border border-gray-200 rounded-lg shadow dark:bg-gray-800 dark:border-gray-700 overflow-hidden recentWorksCard hover:border-blue-300 hover:border-4">
-                        <a href="https://slcfd.lk/">
-                            <img src="/images/slcfd.lk_.png" alt='recentWorkImg' width={744} height={400} className="absolute object-cover recentWorkImg" />
+                        <a href="#">
+                            <img src="/images/web.png" alt='recentWorkImg' width={744} height={400} className="absolute object-cover recentWorkImg" />
                        
                         </a>
                     </div>
                     <div className="relative w-full max-w-sm bg-white border border-gray-200 rounded-lg shadow dark:bg-gray-800 dark:border-gray-700 overflow-hidden recentWorksCard hover:border-blue-300 hover:border-4">
-                        <a href=" https://www.infogate.lk/">
-                            <img src="/images/infogate.lk_.png" alt='recentWorkImg' width={744} height={400} className="absolute object-cover recentWorkImg"/>
+                        <a href="#">
+                            <img src="/images/web.png" alt='recentWorkImg' width={744} height={400} className="absolute object-cover recentWorkImg"/>
                        
                         </a>
                     </div>
                     <div className="relative w-full max-w-sm bg-white border border-gray-200 rounded-lg shadow dark:bg-gray-800 dark:border-gray-700 overflow-hidden recentWorksCard hover:border-blue-300 hover:border-4">
-                        <a href="https://nsehitech.com/">
-                        <Image src="/images/nsehitech.com_.png" alt='heroImg' width={744} height={400} className="absolute object-cover recentWorkImg" />
+                        <a href="#">
+                        <Image src="/images/web.png" alt='heroImg' width={744} height={400} className="absolute object-cover recentWorkImg" />
                         </a>
                     </div>
                 </div>

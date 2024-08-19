@@ -89,10 +89,10 @@ function AboutUsEmployee() {
                             <button className="" onClick={openModal1}>
                                 <div className="relative">
                                     <div className="employeeImg">
-                                        <Image src="/images/user1.jpg" alt='empolyeeImg' width={182} height={158} className='w-full h-full rounded-xl' />
+                                        <Image src="/images/photo.jpg" alt='empolyeeImg' width={182} height={158} className='w-full h-full rounded-xl' />
                                     </div>
-                                    <h2 className='text-black-100 text-opacity-70 text-sm font-bold mt-4 employee-name'>Chamika Abeygunarathna</h2>
-                                    <h2 className='text-black-100 text-opacity-70 text-sm text-center font-bold mt-4'>CEO/MANAGING DIRECTOR </h2>
+                                    <h2 className='text-black-100 text-opacity-70 text-sm font-bold mt-4 employee-name'>Full Name</h2>
+                                    <h2 className='text-black-100 text-opacity-70 text-sm text-center font-bold mt-4'>Job Title</h2>
                                 </div>
                             </button>
 
@@ -107,15 +107,15 @@ function AboutUsEmployee() {
                                         <a href="#" className="flex flex-col items-center bg-slate-950 border-0 rounded-lg shadow md:flex-row md:max-w-7xl dark:border-gray-700 dark:bg-gray-800 dark:hover:bg-gray-700 p-2">
 
                                             <div className="flex flex-col justify-between p-4 leading-normal">
-                                                <h2 className='text-white md:text-5xl text-4xl font-bold'>Chamika Abeygunarathna</h2>
-                                                <h3 className='text-white md:text-base text-base font-light italic mt-4'>CEO/MANAGING DIRECTOR</h3>
-                                                <h3 className='text-white md:text-base text-base font-light italic mt-4'>Msc in IT Specialisation in Cyber Security</h3>
-                                                <p className='text-white md:text-base text-sm font-normal mt-8 max-w-[100ch]'>First and foremost, Chamika exhibits a profound passion for coding. From the inception of coding the initial program in Java, manipulating it to achieve desired outcomes, an enduring fascination with leveraging software to address practical challenges has been ingrained. Software engineering, perceived as an unceasing puzzle, remains a subject of fervent engagement for this professional. Firmly believing in the transformative potential of programming to enhance global lives, the individual has dedicatedly immersed themselves in this pursuit.</p>
+                                                <h2 className='text-white md:text-5xl text-4xl font-bold'>Full Name</h2>
+                                                <h3 className='text-white md:text-base text-base font-light italic mt-4'>Job Title</h3>
+                                                <h3 className='text-white md:text-base text-base font-light italic mt-4'>Degree</h3>
+                                                <p className='text-white md:text-base text-sm font-normal mt-8 max-w-[100ch]'>Lorem ipsum dolor sit, amet consectetur adipisicing elit. Cum ipsam veritatis dicta iste perspiciatis aliquid suscipit architecto dolorum. Dignissimos rerum cupiditate a earum accusamus dolores facere maxime est ducimus dolorem.</p>
                                                 <p className='text-white md:text-base text-sm font-normal mt-8 max-w-[100ch]'>
-                                                The career trajectory commenced with leading a comprehensive UX/UX overhaul for a nascent startup's website, coupled with the strategic injection of HTML/CSS/JavaScript into renowned merchant websites. What began as a contractual endeavor swiftly evolved into a full-time role, allowing for the continuous expansion of responsibilities as a seasoned software engineer. Notably, in the role of Lead Tech Expert at DEVY.io, the individual successfully orchestrated the implementation of a micro front end within the customer acquisition flow. This innovative approach facilitated dynamic composition based on demographic data and streamlined Continuous Integration/Continuous Deployment (CI/CD) deployments, accelerating the time-to-market for features.
+                                                Lorem ipsum, dolor sit amet consectetur adipisicing elit. Magnam possimus inventore sint quae mollitia, eius iste. Eos similique ab facilis, natus nostrum accusamus ea fuga quod fugiat doloremque vel iste!
                                                 </p>
                                                 <p className='text-white md:text-base text-sm font-normal mt-8 max-w-[100ch]'>
-                                                Beyond coding, the individual is a multifaceted talent, doubling as a musician proficient in guitar and violin. The harmonious intersection between software and music serves as a testament to the individual's diverse intellectual challenges. Both realms demand creativity, organizational skills, sequential processing, and problem-solving, providing an ongoing source of motivation. This relentless pursuit is encapsulated in a perpetual desire to create exquisite, influential entities and share them with the global audience.
+                                                Lorem ipsum dolor sit amet consectetur adipisicing elit. Id quis, illum quo eum officiis ut nulla commodi soluta debitis beatae sapiente animi hic consequuntur minus vel quod ipsam nesciunt at!
                                                 </p>
                                             </div>
                                             {/* <Image src="/images/user1.jpg" alt='empolyeeImg' className="rounded-lg" width={177} height={180} /> */}
@@ -128,10 +128,10 @@ function AboutUsEmployee() {
                             <button className="" onClick={openModal2}>
                                 <div className="relative">
                                     <div className="employeeImg">
-                                        <Image src="/images/user2.jpg" alt='empolyeeImg' width={182} height={158} className='w-full h-full rounded-xl' />
+                                        <Image src="/images/photo.jpg" alt='empolyeeImg' width={182} height={158} className='w-full h-full rounded-xl' />
                                     </div>
-                                    <h2 className='text-black-100 text-opacity-70 text-sm font-bold mt-4 employee-name'>Buddika Walpita</h2>
-                                    <h2 className='text-black-100 text-opacity-70 text-sm text-center font-bold mt-4'>HEAD OF ENGINEERING MANAGERS/SOFTWARE ARCHITECT</h2>
+                                    <h2 className='text-black-100 text-opacity-70 text-sm font-bold mt-4 employee-name'>Full Name</h2>
+                                    <h2 className='text-black-100 text-opacity-70 text-sm text-center font-bold mt-4'>Job title</h2>
                                     
                                 </div>
                             </button>
@@ -145,42 +145,23 @@ function AboutUsEmployee() {
                                         <a href="#" className="flex flex-col items-center bg-slate-950 border-0 rounded-lg shadow md:flex-row md:max-w-7xl dark:border-gray-700 dark:bg-gray-800 dark:hover:bg-gray-700 p-2">
 
                                             <div className="flex flex-col justify-between p-4 leading-normal">
-                                                <h2 className='text-white md:text-5xl text-4xl font-bold'>Buddika Walpita</h2>
-                                                <h3 className='text-white md:text-base text-base font-light italic mt-4'>HEAD OF ENGINEERING MANAGERS/SOFTWARE ARCHITECT</h3>
-                                                <h3 className='text-white md:text-base text-base font-light italic mt-4'>B. Tech in Software Technology (2nd Class Upper)</h3>
-                                                <p className='text-white md:text-base text-sm font-normal mt-8 max-w-[100ch]'>Buddhika is a dedicated and versatile professional who excels at the confluence of
-                                                    technology, education, and leadership. Armed with a Bachelor's degree in Software
-                                                    Technology, he has amassed a decade of experience in roles that have shaped his
-                                                    multifaceted career. </p>
+                                                <h2 className='text-white md:text-5xl text-4xl font-bold'>Full Name</h2>
+                                                <h3 className='text-white md:text-base text-base font-light italic mt-4'>Job Title</h3>
+                                                <h3 className='text-white md:text-base text-base font-light italic mt-4'>Degree</h3>
+                                                <p className='text-white md:text-base text-sm font-normal mt-8 max-w-[100ch]'>Lorem ipsum dolor sit amet consectetur, adipisicing elit. Aperiam explicabo laudantium quam repellat deserunt nisi, incidunt molestias et quaerat quia, ea fuga provident sapiente aliquid earum voluptate voluptatem consequuntur maiores! </p>
                                                 <p className='text-white md:text-base text-sm font-normal mt-8 max-w-[100ch]'>
-                                                    Commencing his professional journey as a software developer a decade ago, Buddhika
-                                                    brings expertise in WordPress, Woo-commerce, web and software development, and
-                                                    design. Throughout the years, he has adeptly managed intricate projects, specializing in
-                                                    database management, SEO, and customization, consistently delivering high-quality
-                                                    solutions to clients.
+                                                    Lorem ipsum, dolor sit amet consectetur adipisicing elit. Expedita corporis tenetur obcaecati beatae ipsa quibusdam. Nam architecto culpa omnis eligendi, corrupti odio debitis alias dolores vel consequuntur, fugit doloremque laborum.
 
                                                 </p>
                                                 <p className='text-white md:text-base text-sm font-normal mt-8 max-w-[100ch]'>
-                                                    Buddhika's commitment extends beyond being a Software Engineer; his passion for
-                                                    education is evident in his role as an IT instructor. Over a span of seven years, he has
-                                                    shared knowledge in NVQ-L3, MS Office, Graphic Design, and ICT courses. Guiding
-                                                    students from diverse backgrounds, including school leavers and office professionals, has
-                                                    been a fulfilling aspect of his career.
+                                                    Lorem ipsum dolor sit amet consectetur, adipisicing elit. Quasi suscipit ullam dolorum doloremque eligendi! Repellendus ratione officia quo magni neque. Molestias velit et vel sapiente enim magni placeat minus eligendi?
 
                                                 </p>
                                                 <p className='text-white md:text-base text-sm font-normal mt-8 max-w-[100ch]'>
-                                                    Embodying an entrepreneurial spirit, Buddhika serves as the CEO of Cdazz Education
-                                                    Institute. In this capacity, he oversees a dynamic institution offering a comprehensive
-                                                    range of ICT courses, catering to students from grade 1 to grade 13. The institute
-                                                    prepares students for O/L and A/L examinations while nurturing their digital skills in Sri
-                                                    Lanka's evolving educational landscape.
+                                                    Lorem ipsum dolor, sit amet consectetur adipisicing elit. Incidunt impedit quos, ea voluptatum sequi, asperiores minus, dolores numquam officia dicta illo alias assumenda tenetur temporibus. Libero voluptatem nulla culpa fuga!
                                                 </p>
                                                 <p className='text-white md:text-base text-sm font-normal mt-8 max-w-[100ch]'>
-                                                    In his role as the Engineering Manager at Ceylon Dazzling Dev (Pvt) Ltd, Buddhika steers
-                                                    cutting-edge projects in AI, Machine Learning, Data Science, DevOps, and more. His
-                                                    expertise spans various technologies, including Python, Node.js, React, Next.js, and
-                                                    multiple programming languages, positioning him at the forefront of innovation in the tech
-                                                    industry.
+                                                    Lorem ipsum dolor sit amet, consectetur adipisicing elit. Velit saepe harum natus, eveniet quasi quo! Rerum eius repellendus ad. Aperiam alias ab minus. Deserunt facilis asperiores expedita reprehenderit, delectus tempore?
 
                                                 </p>
                                             </div>
@@ -196,10 +177,10 @@ function AboutUsEmployee() {
                             <button className="" onClick={openModal3}>
                                 <div className="relative">
                                     <div className="employeeImg">
-                                        <Image src="/images/user3.jpg" alt='empolyeeImg' width={182} height={158} className='w-full h-full rounded-xl' />
+                                        <Image src="/images/photo.jpg" alt='empolyeeImg' width={182} height={158} className='w-full h-full rounded-xl' />
                                     </div>
-                                    <h2 className='text-black-100 text-opacity-70 text-sm font-bold mt-4 employee-name'>Chamal Wickramanayaka </h2>
-                                    <h2 className='text-black-100 text-opacity-70 text-sm text-center font-bold mt-4'>ENGINEERING MANAGERS/SOFTWARE ARCHITECT</h2>
+                                    <h2 className='text-black-100 text-opacity-70 text-sm font-bold mt-4 employee-name'>Full Name</h2>
+                                    <h2 className='text-black-100 text-opacity-70 text-sm text-center font-bold mt-4'>Job title</h2>
                                 </div>
                             </button>
                         </div>
@@ -239,10 +220,10 @@ function AboutUsEmployee() {
                             <button className="" onClick={openModal4}>
                                 <div className="relative">
                                     <div className="employeeImg">
-                                        <Image src="/images/user4.jpg" alt='empolyeeImg' width={182} height={158} className='w-full h-full rounded-xl' />
+                                        <Image src="/images/photo.jpg" alt='empolyeeImg' width={182} height={158} className='w-full h-full rounded-xl' />
                                     </div>
-                                    <h2 className='text-black-100 text-opacity-70 text-sm font-bold mt-4 employee-name'>Dilshan Welikala</h2>
-                                    <h2 className='text-black-100 text-opacity-70 text-sm text-center font-bold mt-4'>TEAM MANAGER/TECH LEAD</h2>
+                                    <h2 className='text-black-100 text-opacity-70 text-sm font-bold mt-4 employee-name'>Full Name</h2>
+                                    <h2 className='text-black-100 text-opacity-70 text-sm text-center font-bold mt-4'>Job Title</h2>
                                 </div>
                             </button>
                         </div>
@@ -254,31 +235,18 @@ function AboutUsEmployee() {
                                         <a href="#" className="flex flex-col items-center bg-slate-950 border-0 rounded-lg shadow md:flex-row md:max-w-7xl dark:border-gray-700 dark:bg-gray-800 dark:hover:bg-gray-700 p-2">
 
                                             <div className="flex flex-col justify-between p-4 leading-normal">
-                                                <h2 className='text-white md:text-5xl text-4xl font-bold'>Dilshan Welikala</h2>
-                                                <h3 className='text-white md:text-base text-base font-light italic mt-4'>TEAM MANAGER/TECH LEAD</h3>
-                                                <h3 className='text-white md:text-base text-base font-light italic mt-4'>Bsc in Software Engineering</h3>
-                                                <p className='text-white md:text-base text-sm font-normal mt-8 max-w-[100ch]'>Dilshan Welikala,an accomplished Web Developer with a degree in Software Engineering from NSBM, boasts a distinguished professional journey that commenced in 2015 as a Trainee PHP Developer. Dilshan's career has evolved seamlessly, encompassing roles such as Web Designer, UI/UX Designer, Visual Designer, and Front-end Developer,showcasing his versatility and depth of expertise.</p>
+                                                <h2 className='text-white md:text-5xl text-4xl font-bold'>Full Name</h2>
+                                                <h3 className='text-white md:text-base text-base font-light italic mt-4'>Job title</h3>
+                                                <h3 className='text-white md:text-base text-base font-light italic mt-4'>Degree</h3>
+                                                <p className='text-white md:text-base text-sm font-normal mt-8 max-w-[100ch]'>Lorem ipsum dolor sit, amet consectetur adipisicing elit. Expedita molestias, repellendus neque, quia magnam soluta eum commodi nobis deleniti reprehenderit omnis unde nam tenetur culpa fugit reiciendis corporis quaerat delectus?</p>
                                                 <p className='text-white md:text-base text-sm font-normal mt-8 max-w-[100ch]'>
-                                                    Currently holding the position of Webflow Engineering Manager at CDAZZDEV, Dilshan is a
-                                                    driving force behind the leadership and execution of innovative projects. His role involves
-                                                    not only overseeing the development process but also actively contributing to the
-                                                    ideation and implementation of cutting-edge solutions.
+                                                    Lorem ipsum dolor sit amet consectetur adipisicing elit. Amet natus sed aperiam, repellendus et vel ut maxime laborum iusto sequi ipsam aliquam non laboriosam ea autem ratione quos velit. Adipisci!
                                                 </p>
                                                 <p className='text-white md:text-base text-sm font-normal mt-8 max-w-[100ch]'>
-                                                    Dilshan's commitment to excellence is evident in his comprehensive skill set, enabling him
-                                                    to consistently deliver visually stunning and functionally robust web solutions. His
-                                                    proficiency extends beyond traditional development, incorporating elements of design
-                                                    and user experience to create a holistic digital experience. With a keen understanding of
-                                                    industry trends and emerging technologies, Dilshan stands at the forefront of the dynamic
-                                                    field of web development.
+                                                    Lorem ipsum, dolor sit amet consectetur adipisicing elit. Aliquid repellendus nemo ipsam praesentium ad consequuntur? Itaque repellendus debitis modi? Laborum iste quaerat fugit incidunt ab, quis asperiores illum dolores explicabo.
                                                 </p>
                                                 <p className='text-white md:text-base text-sm font-normal mt-8 max-w-[100ch]'>
-                                                    Known for making a significant impact in every project he undertakes, Dilshan Welikala is
-                                                    a dedicated professional who navigates the intricate landscape of web development with
-                                                    precision and creativity. His contributions reflect not only technical prowess but also a
-                                                    commitment to staying at the forefront of the ever-evolving digital landscape. Dilshan's
-                                                    portfolio is a testament to his ability to transform concepts into tangible, impactful web
-                                                    solutions that leave a lasting impression in the competitive realm of web development.
+                                                    Lorem ipsum dolor sit amet consectetur, adipisicing elit. Accusantium, eius! Eveniet facere odit autem officia omnis est in dignissimos dolorem quos! Dolor maiores nostrum harum veniam sit. Dolore, accusantium exercitationem.
 
                                                 </p>
 
@@ -293,10 +261,10 @@ function AboutUsEmployee() {
                             <button className="" onClick={openModal5}>
                                 <div className="relative">
                                     <div className="employeeImg">
-                                        <Image src="/images/user5.jpg" alt='empolyeeImg' width={182} height={158} className='w-full h-full rounded-xl' />
+                                        <Image src="/images/photo.jpg" alt='empolyeeImg' width={182} height={158} className='w-full h-full rounded-xl' />
                                     </div>
-                                    <h2 className='text-black-100 text-opacity-70 text-sm font-bold mt-4 employee-name'>Menaka Malaviarachchi</h2>
-                                    <h2 className='text-black-100 text-opacity-70 text-sm text-center font-bold mt-4 uppercase'>Head of Human Resources</h2>
+                                    <h2 className='text-black-100 text-opacity-70 text-sm font-bold mt-4 employee-name'>Full Name</h2>
+                                    <h2 className='text-black-100 text-opacity-70 text-sm text-center font-bold mt-4 uppercase'>Job title</h2>
                                 </div>
                             </button>
                         </div>
@@ -308,22 +276,13 @@ function AboutUsEmployee() {
                                         <a href="#" className="flex flex-col items-center bg-slate-950 border-0 rounded-lg shadow md:flex-row md:max-w-7xl dark:border-gray-700 dark:bg-gray-800 dark:hover:bg-gray-700 p-2">
 
                                             <div className="flex flex-col justify-between p-4 leading-normal">
-                                                <h2 className='text-white md:text-5xl text-4xl font-bold'>Menaka Malaviarachchi</h2>
-                                                <h3 className='text-white md:text-base text-base font-light italic mt-4'>Head of Human Resources</h3>
-                                                <h3 className='text-white md:text-base text-base font-light italic mt-4'>BA(Human Resources)</h3>
-                                                <p className='text-white md:text-base text-sm font-normal mt-8 max-w-[100ch]'>Menaka is an experienced specialist with a passion for delivering outstanding service.
-                                                    Proactive, result-oriented professional with over 20+ years of experience in different
-                                                    industries. Self-motivated, team player with strong organizational and interpersonal skills.
-                                                    Always looking to learn new skills, take on extra responsibilities, and grow professionally.
-                                                    Menaka Obtained his Degree from the University of Hertfordshire in the UK with a
-                                                    second class. During his university period Manaka was able to work for one of the largest
-                                                    supermarket chains in the UK and was promoted to Deputy Manager within a very short
-                                                    period. He not only works in the UK but also in Bangladesh and Qatar as well.
+                                                <h2 className='text-white md:text-5xl text-4xl font-bold'>Full Name</h2>
+                                                <h3 className='text-white md:text-base text-base font-light italic mt-4'>Job Title</h3>
+                                                <h3 className='text-white md:text-base text-base font-light italic mt-4'>Degree</h3>
+                                                <p className='text-white md:text-base text-sm font-normal mt-8 max-w-[100ch]'>Lorem ipsum dolor sit amet consectetur adipisicing elit. Molestiae distinctio totam velit illum, atque deserunt exercitationem neque quo ad cupiditate nulla aliquid corporis, quos obcaecati eligendi fugiat animi voluptatem ratione.
                                                 </p>
                                                 <p className='text-white md:text-base text-sm font-normal mt-8 max-w-[100ch]'>
-                                                    Menaka started his career as a software engineer and after 5 years he moved to project
-                                                    management and then to HR and Operations. During his schooling time was engaged
-                                                    with sports including track & field events and cricket.
+                                                    Lorem ipsum dolor sit amet consectetur adipisicing elit. Voluptates quasi eligendi animi nihil in voluptate corporis voluptas doloribus repellendus molestiae commodi, aut quibusdam tempore. Ea perferendis atque tempore esse molestiae.
 
                                                 </p>
                                             </div>
@@ -338,11 +297,11 @@ function AboutUsEmployee() {
                             <button className="" onClick={openModal6}>
                                 <div className="relative">
                                     <div className="employeeImg">
-                                        <Image src="/images/user6.jpg" alt='empolyeeImg' width={182} height={158} className='w-full h-full rounded-xl' />
+                                        <Image src="/images/photo.jpg" alt='empolyeeImg' width={182} height={158} className='w-full h-full rounded-xl' />
                                     </div>
-                                    <h2 className='text-black-100 text-opacity-70 text-sm font-bold mt-4 employee-name'>Roshani Nakandala
+                                    <h2 className='text-black-100 text-opacity-70 text-sm font-bold mt-4 employee-name'>Full Name
                                     </h2>
-                                    <h2 className='text-black-100 text-opacity-70 text-sm text-center font-bold mt-4 uppercase'>Human Resource Executive</h2>
+                                    <h2 className='text-black-100 text-opacity-70 text-sm text-center font-bold mt-4 uppercase'>Job title</h2>
                                 </div>
                             </button>
                         </div>
@@ -354,13 +313,13 @@ function AboutUsEmployee() {
                                         <a href="#" className="flex flex-col items-center bg-slate-950 border-0 rounded-lg shadow md:flex-row md:max-w-7xl dark:border-gray-700 dark:bg-gray-800 dark:hover:bg-gray-700 p-2">
 
                                             <div className="flex flex-col justify-between p-4 leading-normal">
-                                                <h2 className='text-white md:text-5xl text-4xl font-bold'>Roshani Nakandala
+                                                <h2 className='text-white md:text-5xl text-4xl font-bold'>Full Name
                                                 </h2>
-                                                <h3 className='text-white md:text-base text-base font-light italic mt-4'>Human Resource Executive</h3>
-                                                <h3 className='text-white md:text-base text-base font-light italic mt-4'>BA(Business Administration),ANDHRM</h3>
-                                                <p className='text-white md:text-base text-sm font-normal mt-8 max-w-[100ch]'>Roshani is Highly focused, charismatic, persuasive and result driven  executive of human resources with over 10 years of experience in various industries holding various roles. Roshani specialties includes in human resource , administration,finance and banking. Roshani is a Bachelor degree in business administration at university of Bedfordshire in UK and Advanced national diploma holder in human resource management at national institutes of business management Sri Lanka. currently reading charted qualification in human resource management at charter institute of personal management Sri Lanka.</p>
+                                                <h3 className='text-white md:text-base text-base font-light italic mt-4'>Job Title</h3>
+                                                <h3 className='text-white md:text-base text-base font-light italic mt-4'>Degree</h3>
+                                                <p className='text-white md:text-base text-sm font-normal mt-8 max-w-[100ch]'>Lorem ipsum dolor sit, amet consectetur adipisicing elit. Recusandae, delectus facere esse exercitationem earum quisquam, officiis enim, blanditiis tempore quo suscipit voluptate temporibus fugiat. Eaque, quam? Quam reprehenderit corrupti labore!</p>
                                                 <p className='text-white md:text-base text-sm font-normal mt-8 max-w-[100ch]'>
-                                                Roshani considers herself as a "forever student," eager to both build on her academic foundations in human resource, and stay tune with the latest HR strategies through continued coursework and professional development
+                                                Lorem ipsum, dolor sit amet consectetur adipisicing elit. Porro eos corporis voluptates perferendis dicta molestias cum fugiat nam delectus veritatis, ducimus, fugit harum voluptatem maiores, eum at rem dolore enim.
                                                 </p>
                                             </div>
                                             {/* <Image src="/images/user5.jpg" alt='empolyeeImg' className="rounded-lg" width={550} height={753} /> */}

@@ -126,24 +126,24 @@ function ContactUsMainContent() {
                         <div>
                             <h3 className='text-3xl font-bold text-black-100'>Sri Lanka</h3>
                             <p className='text-lg font-medium text-black-100 text-opacity-70 mt-2'>
-                                No.355 D<br />
-                                Agalawatta  Road <br />
-                                Wettawa <br />
-                                Mathugama<br />
+                                Lorem ipsum, <br />
+                                iusto quia, <br />
+                                architecto, <br />
+                                dicta fugiat, <br />
                                 Sri Lanka
                             </p>
                         </div>
                         <div>
                             <h3 className='text-3xl font-bold text-black-100'>Email Us</h3>
-                            <a href="mailto:info@cdazzdev.com" className='text-lg font-medium text-black-100 text-opacity-70 mt-2 underline decoration-slate-600 decoration-2 underline-offset-2'>
-                                info@cdazzdev.com
+                            <a href="mailto:test@info.com" className='text-lg font-medium text-black-100 text-opacity-70 mt-2 underline decoration-slate-600 decoration-2 underline-offset-2'>
+                                test@info.com
                             </a>
 
                         </div>
                         <div>
                             <h3 className='text-3xl font-bold text-black-100'>Hotline</h3>
-                            <a href="mailto:info@cdazzdev.com" className='text-lg font-medium text-black-100 text-opacity-70 mt-2  decoration-slate-600 '>
-                                +94 78 885 5086
+                            <a href="mailto:test@info.com" className='text-lg font-medium text-black-100 text-opacity-70 mt-2  decoration-slate-600 '>
+                                +94 0000000
                             </a>
 
                         </div>

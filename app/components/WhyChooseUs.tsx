@@ -24,7 +24,7 @@ function WhyChooseUs() {
                         </div>
                         <div>
                         <h5 className="mb-2 text-lg font-bold tracking-tight text-white dark:text-white">Expertise That Sets Us Apart:</h5>
-                        <p className="font-normal text-base text-blue-50 text-opacity-75 gray-700 dark:text-gray-400">Our team of seasoned professionals brings a wealth of experience in diverse technological domains. From cutting-edge web development to robust mobile applications, we are driven by a passion for delivering solutions that redefine standards.</p>
+                        <p className="font-normal text-base text-blue-50 text-opacity-75 gray-700 dark:text-gray-400">Lorem ipsum, dolor sit amet consectetur adipisicing elit. Rerum officia doloremque praesentium ullam possimus necessitatibus, eius, nisi aliquid, suscipit blanditiis consequatur voluptate sunt commodi odit laboriosam laudantium. Delectus, id quidem.</p>
 
                         </div>
                         
@@ -40,7 +40,7 @@ function WhyChooseUs() {
                         </div>
                         <div>
                         <h5 className="mb-2 text-lg font-bold tracking-tight text-white dark:text-white">Tailored Solutions for Your Unique Needs:</h5>
-                        <p className="font-normal text-base text-blue-50 text-opacity-75 gray-700 dark:text-gray-400">We understand that every business is unique. That's why we don't believe in one-size-fits-all solutions. Our experts collaborate closely with you to understand your specific requirements, ensuring that our solutions are perfectly tailored to meet your goals.</p>
+                        <p className="font-normal text-base text-blue-50 text-opacity-75 gray-700 dark:text-gray-400">Lorem ipsum dolor sit amet consectetur, adipisicing elit. Ex officia consequuntur in doloribus corporis, rerum enim pariatur ipsam maiores minus molestiae aperiam doloremque nisi harum alias, suscipit fuga cupiditate animi!</p>
 
                         </div>
                         
@@ -56,7 +56,7 @@ function WhyChooseUs() {
                         </div>
                         <div>
                         <h5 className="mb-2 text-lg font-bold tracking-tight text-white dark:text-white">Commitment to Innovation:</h5>
-                        <p className="font-normal text-base text-blue-50 text-opacity-75 gray-700 dark:text-gray-400">Innovation is at the heart of everything we do. We stay ahead of the curve by embracing the latest technologies and methodologies. Expect solutions that not only meet current industry standards but also future-proof your digital presence.</p>
+                        <p className="font-normal text-base text-blue-50 text-opacity-75 gray-700 dark:text-gray-400">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Tenetur similique architecto nihil quisquam reprehenderit cupiditate id modi natus laudantium repellat. Autem sequi eveniet commodi aliquid praesentium molestias pariatur labore veritatis.</p>
 
                         </div>
                         
@@ -72,7 +72,7 @@ function WhyChooseUs() {
                         </div>
                         <div>
                         <h5 className="mb-2 text-lg font-bold tracking-tight text-white dark:text-white">Transparent Communication:</h5>
-                        <p className="font-normal text-base text-blue-50 text-opacity-75 gray-700 dark:text-gray-400">At CDazzDev, we believe in open and transparent communication. From project inception to completion, we keep you in the loop, providing regular updates and seeking your input. Your satisfaction is our priority, and we strive to build lasting relationships based on trust and transparency.</p>
+                        <p className="font-normal text-base text-blue-50 text-opacity-75 gray-700 dark:text-gray-400">Lorem ipsum dolor sit amet consectetur, adipisicing elit. Labore nostrum, dolorum unde a perspiciatis ratione voluptate, praesentium corporis dolores corrupti, nemo recusandae totam adipisci dignissimos reprehenderit dolore earum? Et, doloribus?</p>
 
                         </div>
                         
@@ -88,7 +88,7 @@ function WhyChooseUs() {
                         </div>
                         <div>
                         <h5 className="mb-2 text-lg font-bold tracking-tight text-white dark:text-white">Proven Track Record of Success:</h5>
-                        <p className="font-normal text-base text-blue-50 text-opacity-75 gray-700 dark:text-gray-400">Our portfolio speaks volumes about the quality of work we deliver. We take pride in our successful projects that have made a positive impact on our clients' businesses. Explore our case studies to witness how we've helped businesses thrive in the digital landscape.</p>
+                        <p className="font-normal text-base text-blue-50 text-opacity-75 gray-700 dark:text-gray-400">Lorem, ipsum dolor sit amet consectetur adipisicing elit. Quisquam magni molestiae perferendis eum vel minima, repellat reprehenderit explicabo ipsa aut nihil facere mollitia a error! Saepe deserunt minus aliquid eos.</p>
 
                         </div>
                         
@@ -104,7 +104,7 @@ function WhyChooseUs() {
                         </div>
                         <div>
                         <h5 className="mb-2 text-lg font-bold tracking-tight text-white dark:text-white">Customer-Centric Approach:</h5>
-                        <p className="font-normal text-base text-blue-50 text-opacity-75 gray-700 dark:text-gray-400">Your success is our success. We prioritize your needs, timelines, and objectives, ensuring that our solutions align with your business strategy. Our customer-centric approach is reflected in every interaction and every line of code we write.</p>
+                        <p className="font-normal text-base text-blue-50 text-opacity-75 gray-700 dark:text-gray-400">Lorem ipsum dolor sit amet consectetur adipisicing elit. Suscipit optio, quae debitis cum repudiandae unde incidunt veritatis ipsum voluptas, error quos dicta vitae ducimus, hic laudantium ad ab delectus rerum?</p>
 
                         </div>
                         

@@ -21,7 +21,7 @@ function InstaFeed() {
                 {/* <p className='sm:text-base text-sm font-normal text-white text-center mx-auto max-w-[60ch] mt-6 mb-16'>Lorem ipsum dolor sit amet consectetur adipisicing elit. Laudantium dolore obcaecati Laudantium dolore obcaecati.</p> */}
                 {/* instagram section follow us button */}
                 <div className="flex md:justify-end justify-center mb-8 mt-10">
-                   <a href="https://www.instagram.com/cdazzdev/">
+                   <a href="#">
                     <button type="button" className="text-white bg-blue-300 shadow-0  border-0 focus:ring-0 focus:outline-none  font-bold rounded-full text-base px-7 py-3 text-center inline-flex items-center me-2 dark:bg-blue-600 dark:hover:bg-blue-700 dark:focus:ring-blue-800 transform transition-transform hover:scale-90">
                         <svg width="20" height="20" viewBox="0 0 20 20" fill="white" xmlns="http://www.w3.org/2000/svg" className='me-2'>
                             <g clip-path="url(#clip0_110_1805)">
@@ -42,9 +42,9 @@ function InstaFeed() {
                 <div className="slider-insta">
                     <div className="slide-track">
                         <div className="slide-insta">
-                        <a href="https://www.instagram.com/p/C2670S7sTYi/">
+                        <a href="#">
                             <div className="relative insta-card max-w-sm p-0 bg-white border border-gray-200 rounded-xl shadow dark:bg-gray-800 dark:border-gray-700">
-                                <Image src="/images/Happy-Independence-Day-Sri-Lanka-🇱🇰-SriLanka-independenceday-Celebrations-Instagram.png" alt='instaImg' width={744} height={719} className='rounded-xl' />
+                                <Image src="/images/insta-img.jpg" alt='instaImg' width={744} height={719} className='rounded-xl' />
                                 <div className="overlay-insta absolute rounded-lg flex justify-center items-center">
                                     <svg width="40" height="40" viewBox="0 0 20 20" fill="none" xmlns="http://www.w3.org/2000/svg" className='instaImg opacity-0'>
                                         <g clip-path="url(#clip0_110_1805)">
@@ -64,9 +64,9 @@ function InstaFeed() {
 
                         </div>
                         <div className="slide-insta">
-                        <a href="https://www.instagram.com/p/C21UbkKtDxl/">
+                        <a href="#">
                             <div className="relative insta-card max-w-sm p-0 bg-white border border-gray-200 rounded-xl shadow dark:bg-gray-800 dark:border-gray-700">
-                                <Image src="/images/Happy-Birthday-to-one-of-our-team-member-Chamal-Ayesh-Wickramanayaka-On-behalf-of-the-entire-CDAZZDEV-family-we-extend-the-warmest…-Instagram.png" alt='instaImg' width={744} height={719} className='rounded-xl' />
+                                <Image src="/images/insta-img.jpg" alt='instaImg' width={744} height={719} className='rounded-xl' />
                                 <div className="overlay-insta absolute rounded-lg flex justify-center items-center">
                                     <svg width="40" height="40" viewBox="0 0 20 20" fill="none" xmlns="http://www.w3.org/2000/svg" className='instaImg opacity-0'>
                                         <g clip-path="url(#clip0_110_1805)">
@@ -86,9 +86,9 @@ function InstaFeed() {
 
                         </div>
                         <div className="slide-insta">
-                        <a href="https://www.instagram.com/p/C2jderCvODq/?img_index=2">
+                        <a href="#">
                             <div className="relative insta-card max-w-sm p-0 bg-white border border-gray-200 rounded-xl shadow dark:bg-gray-800 dark:border-gray-700">
-                                <Image src="/images/Ring-out-the-old-and-ring-in-the-new-Cheers-to-another-year-Here’s-to-whatever-comes-next-celebration-eventatofc-2024newyear-Instagram(1).png" alt='instaImg' width={744} height={719} className='rounded-xl' />
+                                <Image src="/images/insta-img.jpg" alt='instaImg' width={744} height={719} className='rounded-xl' />
                                 <div className="overlay-insta absolute rounded-lg flex justify-center items-center">
                                     <svg width="40" height="40" viewBox="0 0 20 20" fill="none" xmlns="http://www.w3.org/2000/svg" className='instaImg opacity-0'>
                                         <g clip-path="url(#clip0_110_1805)">
@@ -108,9 +108,9 @@ function InstaFeed() {
 
                         </div>
                         <div className="slide-insta">
-                        <a href="https://www.instagram.com/p/C2jderCvODq/?img_index=6">
+                        <a href="#">
                             <div className="relative insta-card max-w-sm p-0 bg-white border border-gray-200 rounded-xl shadow dark:bg-gray-800 dark:border-gray-700">
-                                <Image src="/images/Ring-out-the-old-and-ring-in-the-new-Cheers-to-another-year-Here’s-to-whatever-comes-next-celebration-eventatofc-2024newyear-Instagram(2).png" alt='instaImg' width={744} height={719} className='rounded-xl' />
+                                <Image src="/images/insta-img.jpg" alt='instaImg' width={744} height={719} className='rounded-xl' />
                                 <div className="overlay-insta absolute rounded-lg flex justify-center items-center">
                                     <svg width="40" height="40" viewBox="0 0 20 20" fill="none" xmlns="http://www.w3.org/2000/svg" className='instaImg opacity-0'>
                                         <g clip-path="url(#clip0_110_1805)">
@@ -130,9 +130,9 @@ function InstaFeed() {
 
                         </div>
                         <div className="slide-insta">
-                        <a href="https://www.instagram.com/p/C2jderCvODq/?img_index=1">
+                        <a href="#">
                             <div className="relative insta-card max-w-sm p-0 bg-white border border-gray-200 rounded-xl shadow dark:bg-gray-800 dark:border-gray-700">
-                                <Image src="/images/Ring-out-the-old-and-ring-in-the-new-Cheers-to-another-year-Here’s-to-whatever-comes-next-celebration-eventatofc-2024newyear-Instagram.png" alt='instaImg' width={744} height={719} className='rounded-xl' />
+                                <Image src="/images/insta-img.jpg" alt='instaImg' width={744} height={719} className='rounded-xl' />
                                 <div className="overlay-insta absolute rounded-lg flex justify-center items-center">
                                     <svg width="40" height="40" viewBox="0 0 20 20" fill="none" xmlns="http://www.w3.org/2000/svg" className='instaImg opacity-0'>
                                         <g clip-path="url(#clip0_110_1805)">
@@ -152,9 +152,9 @@ function InstaFeed() {
 
                         </div>
                         <div className="slide-insta">
-                        <a href="http://www.instagram.com">
+                        <a href="#">
                             <div className="relative insta-card max-w-sm p-0 bg-white border border-gray-200 rounded-xl shadow dark:bg-gray-800 dark:border-gray-700">
-                                <Image src="/images/_factsyoudidntknow-Follow-to-know-what-you-Don’t-know-softwaresolutionscompany-ITknowledge-KnowledgeIsPower-facts-Instagram.png" alt='instaImg' width={744} height={719} className='rounded-xl' />
+                                <Image src="/images/insta-img.jpg" alt='instaImg' width={744} height={719} className='rounded-xl' />
                                 <div className="overlay-insta absolute rounded-lg flex justify-center items-center">
                                     <svg width="40" height="40" viewBox="0 0 20 20" fill="none" xmlns="http://www.w3.org/2000/svg" className='instaImg opacity-0'>
                                         <g clip-path="url(#clip0_110_1805)">
@@ -174,9 +174,9 @@ function InstaFeed() {
 
                         </div>
                         <div className="slide-insta">
-                        <a href="https://www.instagram.com/p/C2670S7sTYi/">
+                        <a href="#">
                             <div className="relative insta-card max-w-sm p-0 bg-white border border-gray-200 rounded-xl shadow dark:bg-gray-800 dark:border-gray-700">
-                                <Image src="/images/Happy-Independence-Day-Sri-Lanka-🇱🇰-SriLanka-independenceday-Celebrations-Instagram.png" alt='instaImg' width={744} height={719} className='rounded-xl' />
+                                <Image src="/images/insta-img.jpg" alt='instaImg' width={744} height={719} className='rounded-xl' />
                                 <div className="overlay-insta absolute rounded-lg flex justify-center items-center">
                                     <svg width="40" height="40" viewBox="0 0 20 20" fill="none" xmlns="http://www.w3.org/2000/svg" className='instaImg opacity-0'>
                                         <g clip-path="url(#clip0_110_1805)">
@@ -196,9 +196,9 @@ function InstaFeed() {
 
                         </div>
                         <div className="slide-insta">
-                        <a href="https://www.instagram.com/p/C21Sap9tZtF/">
+                        <a href="#">
                             <div className="relative insta-card max-w-sm p-0 bg-white border border-gray-200 rounded-xl shadow dark:bg-gray-800 dark:border-gray-700">
-                                <Image src="/images/_factsyoudidntknow-Follow-to-know-what-you-Don’t-know-softwaresolutionscompany-ITknowledge-KnowledgeIsPower-facts-Instagram.png" alt='instaImg' width={744} height={719} className='rounded-xl' />
+                                <Image src="/images/insta-img.jpg" alt='instaImg' width={744} height={719} className='rounded-xl' />
                                 <div className="overlay-insta absolute rounded-lg flex justify-center items-center">
                                     <svg width="40" height="40" viewBox="0 0 20 20" fill="none" xmlns="http://www.w3.org/2000/svg" className='instaImg opacity-0'>
                                         <g clip-path="url(#clip0_110_1805)">

@@ -15,7 +15,7 @@ const Hero = () => {
   return (
 
 
-    <div className="relative bg-[url('/images/hero.jpg')] bg-cover min-h-screen">
+    <div className="relative bg-[url('/images/hero.jpg')] bg-cover bg-center min-h-screen">
 
       <div className="absolute inset-0 bg-black-100 opacity-50"></div> {/* Overlay */}
       {/* navbar for home page */}
@@ -24,7 +24,7 @@ const Hero = () => {
           <div className="max-w-full flex flex-wrap items-center justify-between md:p-4">
             {/* Logo image */}
             <a href="/" className="flex items-center space-x-3 rtl:space-x-reverse">
-              <Image src="/images/logo-light.png" alt='LogoImg' width={130} height={40} />
+              {/* <Image src="/images/logo-light.png" alt='LogoImg' width={130} height={40} /> */}
             </a>
             {/* Hamburger Icon */}
             <button data-collapse-toggle="navbar-default" type="button" className="inline-flex items-center p-2 w-10 h-10 justify-center text-sm text-white rounded-lg md:hidden hover:bg-indigo-950 focus:outline-none focus:ring-2 focus:ring-white dark:text-gray-400 dark:hover:bg-gray-700 dark:focus:ring-gray-600" aria-controls="navbar-default" aria-expanded="false">
